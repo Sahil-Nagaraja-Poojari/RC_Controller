@@ -1,0 +1,6 @@
+{
+  "name": "RC Car Command",
+  "description": "Professional RC Car Controller with Bluetooth & Wi-Fi connectivity, realistic D-pad controls, haptic feedback, and live video stream telemetry dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
